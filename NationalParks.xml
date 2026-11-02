@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks xmlns="http://www.asu.edu/cse445/NationalParks"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://www.asu.edu/cse445/NationalParks NationalParks.xsd">
 
   <!-- Sample from Figure 1 -->
   <NationalPark Rating="4.9">
